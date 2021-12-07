@@ -1,1 +1,1 @@
-InvaizStudio Release Note.
+INVAIZ Studio Release Note.
